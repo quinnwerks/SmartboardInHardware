@@ -1,4 +1,4 @@
-# SmartboardInHardware
+# Smartboard In Hardware
 	 Quinn Smith and Torin Anderson
    
 	 Takes composite input from a digital camera. If something in the FOV of
